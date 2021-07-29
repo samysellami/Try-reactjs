@@ -1,0 +1,16 @@
+.text-green {
+  color: green;
+}
+.text-green:hover {
+  color: #18ee18;
+}
+
+.text-red {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=/src.e31bb0bc.css.map */

@@ -1,0 +1,6 @@
+{
+    "posts": [
+        {"title": "hello-world", "slug": "hello-world"},
+        {"title": "random", "slug": "random"}
+    ]
+}
